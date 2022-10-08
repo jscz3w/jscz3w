@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jscz3w
-- 👀 I’m interested in iOS
+- 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on iOS development
 - 📫 How to reach me： jscz3w#gmail.com
